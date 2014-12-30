@@ -72,7 +72,6 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
     font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 900;
 }
@@ -1243,6 +1242,7 @@ body.vintage h3,
 body.vintage h4,
 body.vintage h5,
 body.vintage h6 {
+    text-transform: uppercase;
     font-family: Sanchez,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
 }
